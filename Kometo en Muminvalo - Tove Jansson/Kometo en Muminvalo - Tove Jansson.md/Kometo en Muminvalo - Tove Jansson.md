@@ -2,17 +2,11 @@ Title: Kometo en Muminvalo
 Author: Tove Jansson  
 Description: Kiam Mumintrolo lernis ke kometo preterpasos, li kaj lia amiko Snif vojaĝis al la Observatorio sur la Soleca Montaro por konsulti la profesorojn. Laŭ la vojo, ili havis multajn aventurojn, sed la plej granda aventuro de ĉiuj atendis ilin kiam ili lernis ke la kometo rekte celis ilian amatan Muminvalo.
 
-# Mapo #
-
-![][map-bildo]
-
-----
-
 # Ĉapitro 1 #
 
 ![][1-1]
 
-\\noindent En la sama mateno, kiam la patro de Mumintrolo pretigis ponton trans la riveron, la besteto Snif faris eltrovon. Li trovis tute novan vojon. Ĝi enŝteliĝis en la arbaron en malluma loko, kaj Snif longe rigardis al ĝi.
+En la sama mateno, kiam la patro de Mumintrolo pretigis ponton trans la riveron, la besteto Snif faris eltrovon. Li trovis tute novan vojon. Ĝi enŝteliĝis en la arbaron en malluma loko, kaj Snif longe rigardis al ĝi.
 
 “Ĉi tion mi rakontos al Mumintrolo,” li pensis. “Ni devos kune esplori tiun vojon, ĉar mi ne riskos tion sola.”
 
@@ -284,7 +278,7 @@ Post kelka tempo ĉiuj lumoj estingiĝis kaj la tuta domo dormis. Sed la pluvo k
 
 ![][2-1]
 
-\\noindent La sekva tago estis nuba. Mumintrolo vekiĝis kaj eliris en la malsekan silentan ĝardenon. La ŝtormo estis for, la pluvado ĉesis. Sed nenio estis kiel kutime. Li longe staris rigardante kaj flarante ĉiudirekten antaŭ ol kompreni, kio okazis.
+La sekva tago estis nuba. Mumintrolo vekiĝis kaj eliris en la malsekan silentan ĝardenon. La ŝtormo estis for, la pluvado ĉesis. Sed nenio estis kiel kutime. Li longe staris rigardante kaj flarante ĉiudirekten antaŭ ol kompreni, kio okazis.
 
 Ĉio estis griza! Ne nur la ĉielo kaj la rivero, sed la arboj, la tero, la domo! Ĉio estis tute griza kaj aspektis terure, kvazaŭ ne plu vivante.
 
@@ -386,7 +380,7 @@ Li turnis sin al la patrino de Mumintrolo kaj diris:  Ni zorgos pri la afero. Es
 
 ![][3-1]
 
-\\noindent En la granda tago de vojaĝo Mumintrolo vekiĝis tre frue kaj kuris ĝis la fenestro por rigardi la veteron. Ankoraŭ restis nube. La nuboj pendis malalte super la deklivoj, kaj neniu folio moviĝis en la ĝardeno.
+En la granda tago de vojaĝo Mumintrolo vekiĝis tre frue kaj kuris ĝis la fenestro por rigardi la veteron. Ankoraŭ restis nube. La nuboj pendis malalte super la deklivoj, kaj neniu folio moviĝis en la ĝardeno.
 
 “Snif! Vekiĝu! Ni ekiros!” vokis la trolo. Li kuris suben laŭ la ŝtuparoj, li sentis sin kuraĝega kaj tre forta. La patrino okupiĝis pri pakado. Ŝi faris buterpanajn pakojn, kaj sur la salona tablo staris amaso da dorsosakoj, korboj kaj skatoloj.
 
@@ -808,7 +802,7 @@ Sed tiunokte li sonĝis pri eta snorkfraŭlino kiu similis lin mem kaj al kiu li
 
 ![][4-1]
 
-\\noindent “Kiel stulte,” diris Mumintrolo, kiam li matene vekiĝis. “En la tendo estis glacie malvarme.”
+“Kiel stulte,” diris Mumintrolo, kiam li matene vekiĝis. “En la tendo estis glacie malvarme.”
 
 Snufmumriko ĝuste kuiris teon.
 
@@ -1344,7 +1338,7 @@ Sed super la silenta dormanta arbaro lumis la kometo, varmega kaj misaŭgura.
 
 ![][6-1]
 
-\\noindent La tutan postan tagon ili marŝis tra la arbaro, rekte en la direkto al Muminvalo. Snufmumriko muzikis al ili por iom gajigi la aferon. Iam ĉirkaŭ la kvina horo ili venis al vojeto kun granda afiŝo. “*‘Dancejo. Ĉi tien. Butiko’*,” diris la afiŝo.
+La tutan postan tagon ili marŝis tra la arbaro, rekte en la direkto al Muminvalo. Snufmumriko muzikis al ili por iom gajigi la aferon. Iam ĉirkaŭ la kvina horo ili venis al vojeto kun granda afiŝo. “*‘Dancejo. Ĉi tien. Butiko’*,” diris la afiŝo.
 
 “Ho! Mi volas danci!” vokis Snorkfraŭlino kunfrapante la snorkmanojn.
 
@@ -2537,7 +2531,7 @@ Iom post iom iĝis tute kviete en la groto. Snif post iom vekiĝis kaj sentis io
 
 ![][10-1]
 
-\\noindent  Mumintrolo vekiĝis ne sciante kie li estas. La groto estis plena de malforta duonlumo kaj odoris je petrolo. Tiam li rememoris ĉion kaj eksidis. La aliaj ankoraŭ dormis. La trolo plandis ĝis la pordo.
+Mumintrolo vekiĝis ne sciante kie li estas. La groto estis plena de malforta duonlumo kaj odoris je petrolo. Tiam li rememoris ĉion kaj eksidis. La aliaj ankoraŭ dormis. La trolo plandis ĝis la pordo.
 
 Malrapide li levis la plejdon kaj rigardis eksteren. La ruĝa lumo estis for. La ĉielo havis entute neniun koloron kaj regis absoluta silento.
 
@@ -2580,8 +2574,6 @@ Ili ĉiuj vekiĝis kaj elvenis el la groto kaj interesiĝis. Nur la hemulo ne su
 “Nun,” diris la patrino de Mumintrolo, “nun mi proponas ke ni formanĝu la altan kukon hejme en la verando. Ĉu ni ne iru hejmen? Ĉu vi pensas ke la arbaro kaj la ĝardeno kaj la domo restas?”
 
 “Mi pensas, ke ĉio restas,” diris Mumintrolo. “Venu, ni iru rigardi!”
-
-[map-bildo]: map-bildo.png width=394px height=580px
 
 [1-1]: 1-1.png width=450px height=237px
 
