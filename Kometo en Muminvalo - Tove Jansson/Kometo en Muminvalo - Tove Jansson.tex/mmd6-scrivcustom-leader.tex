@@ -9,13 +9,19 @@
 \definecolor{coolgrey}{Hsb}{293, 0.0, 0.5}
 \definecolor{plumbgrey}{Hsb}{314, 0.3, 0.5}
 \definecolor{redgrey}{Hsb}{337, 0.31, 0.6}
-\usepackage{url,verse}
+\usepackage{verse}
 \usepackage{wrapfig}
 \usepackage{sectionbreak}
 \usepackage{perpage} %the perpage package
 \MakePerPage{footnote} %the perpage package command
 \usepackage{xpatch}
 \usepackage{fancyvrb}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{tabulary}
+%\usepackage{listings}
+\usepackage[sort&compress]{natbib}
+\usepackage[normalem]{ulem}
 \usepackage{adjustbox}
 \usepackage[esperanto]{babel}
 \usepackage{amssymb}
@@ -37,7 +43,6 @@
 \usepackage{pdfpages}
 \usepackage[T1]{fontenc}
 \usepackage{fontenc,unicode-math}
-
 %\usepackage{fontspec}
 \setmainfont[Ligatures=TeX]{TeX Gyre Schola}
 %\usepackage{beton}
@@ -100,22 +105,6 @@
 \setheaderspaces{*}{2\onelineskip}{*}
 \checkandfixthelayout
 
-\usepackage{fancyvrb}
-\usepackage{graphicx}
-\usepackage{booktabs}
-\usepackage{tabulary}
-%\usepackage{listings}
-\usepackage[sort&compress]{natbib}
-\usepackage[normalem]{ulem}
-
-\renewcommand{\contentsname}{TABELO DE ENHAVO}
-
-
-% Make use of MultiMarkdown's CriticMarkup support for proofing notations
-% If you have installed your own copy of MMD, you should use the second command instead.
-\input{/Applications/Scrivener.app/Contents/Resources/MultiMarkdown/latex-support/mmd6-criticmarkup}
-% \input{mmd6-criticmarkup}
-
 \VerbatimFootnotes
 
 % Section Headings
@@ -138,21 +127,23 @@
 
 % Chapter heading style
 \makechapterstyle{modern-style}{
-    \renewcommand*{\chaptitlefont}{\helveticanl\huge\centering\normalfont}
-    \renewcommand*{\chapnumfont}{\helvetican\Huge\raggedright\mdseries}
+    \renewcommand*{\chaptitlefont}{\Huge\centering\normalfont}
+    \renewcommand*{\chapnumfont}{\Huge\raggedright\mdseries}
 	\renewcommand*{\chapnamefont}{\chapnumfont}
-	\renewcommand*{\printchaptername}{\newpage\chapnamefont\color{ForestGreen}}
+	\renewcommand*{\printchaptername}{\chapnamefont\color{ForestGreen}}
+	\renewcommand*{\printchapternonum}{\chapnamefont\color{ForestGreen}}
 	\renewcommand*{\printchapternum}{}
-	\setlength{\beforechapskip}{36pt}
-    \setlength{\afterchapskip}{12pt}
-	\setlength{\midchapskip}{6pt}
-	\setlength{\midchapskip}{6pt}
+	\renewcommand*{\chapterheadstart}{\newpage \vspace*{4em}}
+
 }
 \chapterstyle{modern-style}
 
+%\renewcommand*{\chapnumfont}{\Huge\raggedright\centering\color{ForestGreen}}
+%\renewcommand*{\chapnamefont}{\chapnumfont}
+
 % Part Breaks
-\renewcommand{\parttitlefont}{\helvetican\huge\raggedright\normalfont\color{ForestGreen}}
-%\renewcommand{\partnamefont}{\helvetican\fontsize{30pt}{30pt}\raggedright\mdseries\color{ForestGreen}}
+
+
 \renewcommand{\partnamefont}{}
 \renewcommand{\printpartname}{}
 \renewcommand{\printpartnum}{}
@@ -161,13 +152,12 @@
 \renewcommand{\midpartskip}{\par\vspace{6pt}}
 % Comment the following line if you wish to print the name of the part
 \renewcommand{\printparttitle}{\chapnamefont\centering\color{ForestGreen}}
-\renewcommand{\afterpartskip}{\par\vspace{6pt}}
+\renewcommand{\afterpartskip}{\par\vspace{0pt}}
 
 
 \renewcommand{\cftpartleader}{\cftdotfill{\cftdotsep}}
 \renewcommand{\cftchapterleader}{\cftdotfill{\cftdotsep}}
 
 \pagestyle{plain}
-
-
+               
 \renewcommand{\sectionbreak}{\fancybreak{\color{ForestGreen}\textbf{\star}}}

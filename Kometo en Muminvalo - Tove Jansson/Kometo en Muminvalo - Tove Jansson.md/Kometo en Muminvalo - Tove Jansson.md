@@ -2,38 +2,17 @@ Title: Kometo en Muminvalo
 Author: Tove Jansson  
 Description: Kiam Mumintrolo lernis ke kometo preterpasos, li kaj lia amiko Snif vojaĝis al la Observatorio sur la Soleca Montaro por konsulti la profesorojn. Laŭ la vojo, ili havis multajn aventurojn, sed la plej granda aventuro de ĉiuj atendis ilin kiam ili lernis ke la kometo rekte celis ilian amatan Muminvalo.
 
-## Enhavtabelo ##
+# Mapo #
 
-[Ĉapitro 1][]	
-
-[Ĉapitro 2][]	
-
-[Ĉapitro 3][]	
-
-[Ĉapitro 4][]	
-
-[Ĉapitro 5][]	
-
-[Ĉapitro 6][]	
-
-[Ĉapitro 7][]	
-
-[Ĉapitro 8][]	
-
-[Ĉapitro 9][]	
-
-[Ĉapitro 10][]	
-
-![][mapo]
+![][map-bildo]
 
 ----
 
 # Ĉapitro 1 #
 
-
 ![][1-1]
 
-En la sama mateno, kiam la patro de Mumintrolo pretigis ponton trans la riveron, la besteto Snif faris eltrovon. Li trovis tute novan vojon. Ĝi enŝteliĝis en la arbaron en malluma loko, kaj Snif longe rigardis al ĝi.
+\\noindent En la sama mateno, kiam la patro de Mumintrolo pretigis ponton trans la riveron, la besteto Snif faris eltrovon. Li trovis tute novan vojon. Ĝi enŝteliĝis en la arbaron en malluma loko, kaj Snif longe rigardis al ĝi.
 
 “Ĉi tion mi rakontos al Mumintrolo,” li pensis. “Ni devos kune esplori tiun vojon, ĉar mi ne riskos tion sola.”
 
@@ -43,8 +22,6 @@ La valo kie ili loĝis estis tre bela. Ĝi estis plena de feliĉaj bestetoj kaj 
 
 “Estas io stranga pri vojoj kaj riveroj,” Snif pensis, “oni vidas ilin preterpasi kaj ekhavas teruran emon esti aliloke. Akompani por vidi kie ili finiĝas...”
 ***
-<!-- align left --> ![][1-2]
-
 Mumintrolo estis okupita fiksi pendolilon, kiam Snif revenis hejmen.
 
 “Saluton,” Snif diris. “Mi trovis tute propran vojon. Ĝi aspektas danĝera.”
@@ -54,6 +31,8 @@ Mumintrolo estis okupita fiksi pendolilon, kiam Snif revenis hejmen.
 “Mi prefere dirus *enorme* danĝera,” la besteto Snif serioze respondis.
 
 “Do ni devas kunporti buterpanojn,” Mumintrolo diris.
+
+<div style="float: left">![][1-2]</div>
 
 “Kaj fruktsukon.” Li iris ĝis la kuireja fenestro kaj diris: “Hej, Panjo. Hodiaŭ ni manĝos eksterdome.”
 
@@ -279,9 +258,9 @@ La moskorato almetis la nazon al la veranda fenestro gapante eksteren en la mall
 
 “Eble glaseton,” diris la moskorato. “Dankon, dankon. Nun mi sentas min pli bone. La granda pereo ne tiom zorgigas min, sed iel oni preferus ne havi malvarman ventron pereante.”
 
-“Nu, certe ne,” diris la patrino. “Sed ĉi tio sendube ne estas inunda pluvo.”
-
 ![][1-12]
+
+“Nu, certe ne,” diris la patrino. “Sed ĉi tio sendube ne estas inunda pluvo.”
 
 La moskorato elsnufis.
 
@@ -305,7 +284,7 @@ Post kelka tempo ĉiuj lumoj estingiĝis kaj la tuta domo dormis. Sed la pluvo k
 
 ![][2-1]
 
-La sekva tago estis nuba. Mumintrolo vekiĝis kaj eliris en la malsekan silentan ĝardenon. La ŝtormo estis for, la pluvado ĉesis. Sed nenio estis kiel kutime. Li longe staris rigardante kaj flarante ĉiudirekten antaŭ ol kompreni, kio okazis.
+\\noindent La sekva tago estis nuba. Mumintrolo vekiĝis kaj eliris en la malsekan silentan ĝardenon. La ŝtormo estis for, la pluvado ĉesis. Sed nenio estis kiel kutime. Li longe staris rigardante kaj flarante ĉiudirekten antaŭ ol kompreni, kio okazis.
 
 Ĉio estis griza! Ne nur la ĉielo kaj la rivero, sed la arboj, la tero, la domo! Ĉio estis tute griza kaj aspektis terure, kvazaŭ ne plu vivante.
 
@@ -407,7 +386,7 @@ Li turnis sin al la patrino de Mumintrolo kaj diris:  Ni zorgos pri la afero. Es
 
 ![][3-1]
 
-En la granda tago de vojaĝo Mumintrolo vekiĝis tre frue kaj kuris ĝis la fenestro por rigardi la veteron. Ankoraŭ restis nube. La nuboj pendis malalte super la deklivoj, kaj neniu folio moviĝis en la ĝardeno.
+\\noindent En la granda tago de vojaĝo Mumintrolo vekiĝis tre frue kaj kuris ĝis la fenestro por rigardi la veteron. Ankoraŭ restis nube. La nuboj pendis malalte super la deklivoj, kaj neniu folio moviĝis en la ĝardeno.
 
 “Snif! Vekiĝu! Ni ekiros!” vokis la trolo. Li kuris suben laŭ la ŝtuparoj, li sentis sin kuraĝega kaj tre forta. La patrino okupiĝis pri pakado. Ŝi faris buterpanajn pakojn, kaj sur la salona tablo staris amaso da dorsosakoj, korboj kaj skatoloj.
 
@@ -551,13 +530,13 @@ Kiam li finfine atingis la subon li profunde enspiris kaj komencis kolekti grena
 
 “Hej,” vokis Snufmumriko de supre. “Ĉu vi ne baldaŭ revenos supren?”
 
-![][3-6]
-
 “Ankoraŭ ne!” kriis Snif. “Restas tiom...”
 
 “La roso falas kaj estos malvarme,” vokis Snufmumriko.
 
 “Jes jes,” diris Snif. “Mi venos... tuj...” Kaj li iris ankoraŭ pli profunden en la fendegon kie du grandaj ruĝaj grenatoj brilis kontraŭ li.
+
+![][3-6]
 
 Tiam okazis la teruraĵo. La grenatoj moviĝis, ili palpebrumis. Ili alproksimiĝis. Kaj post ili sekvis skvama korpo kiu malvarme raslis kontraŭ la ŝtonoj. Snif kriis unu solan fojon, poste li turnis sin kaj kuris. Li saltis, ĵetiĝis, kuris, galopis antaŭen ĝis la roka muro kaj ekgrimpis per manoj kaj piedoj malsekaj pro teruro. Sub li io siblis malrapide kaj minace.
 
@@ -829,7 +808,7 @@ Sed tiunokte li sonĝis pri eta snorkfraŭlino kiu similis lin mem kaj al kiu li
 
 ![][4-1]
 
-“Kiel stulte,” diris Mumintrolo, kiam li matene vekiĝis. “En la tendo estis glacie malvarme.”
+\\noindent “Kiel stulte,” diris Mumintrolo, kiam li matene vekiĝis. “En la tendo estis glacie malvarme.”
 
 Snufmumriko ĝuste kuiris teon.
 
@@ -893,7 +872,7 @@ Posttagmeze ili jam grimpis tiel alten ke ili eniris la nubojn. Subite ĉirkaŭi
 
 Li iris rekte en la nebulon.
 
-<!-- align right --> ![][4-3]
+<div style="float: right; width: 200px;">![][4-3]</div>
 
 “Atentu,” vokis Snufmumriko. “Ĝi kuŝas ĝuste surrande de la abismo!”
 
@@ -1086,7 +1065,7 @@ Nun verŝajne troviĝus je unu mumintrolo malpli en la mondo, se li ne havus la 
 
 Sube en la abismo Mumintrolo senpove svingiĝis tienreen, kaj li estis sufiĉe peza trolo. Snufmumriko malrapide glitis pli kaj pli proksimen al la krutaĵo. La ŝnuro inter li kaj Snif streĉiĝis kaj ankaŭ Snif estis kuntirata sur la tero.
 
-<!-- align right --> ![][5-2]
+<div style="float: right; width: 200px;">![][5-2]</div>
 
 “Lasu,” li ĝemis. “Ne ĝenu min, mi malbonfartas...”
 
@@ -1365,7 +1344,7 @@ Sed super la silenta dormanta arbaro lumis la kometo, varmega kaj misaŭgura.
 
 ![][6-1]
 
-La tutan postan tagon ili marŝis tra la arbaro, rekte en la direkto al Muminvalo. Snufmumriko muzikis al ili por iom gajigi la aferon. Iam ĉirkaŭ la kvina horo ili venis al vojeto kun granda afiŝo. “*‘Dancejo. Ĉi tien. Butiko’*,” diris la afiŝo.
+\\noindent La tutan postan tagon ili marŝis tra la arbaro, rekte en la direkto al Muminvalo. Snufmumriko muzikis al ili por iom gajigi la aferon. Iam ĉirkaŭ la kvina horo ili venis al vojeto kun granda afiŝo. “*‘Dancejo. Ĉi tien. Butiko’*,” diris la afiŝo.
 
 “Ho! Mi volas danci!” vokis Snorkfraŭlino kunfrapante la snorkmanojn.
 
@@ -1521,15 +1500,15 @@ La snorko klopodis kalkuli enkape sed tio ne prosperis.
 
 Do li notis ĝin ĉi tiel en sia kajero:
 
-kajero	40 penioj  
-limonado (esputita)	34 penioj  
-medalo	3 markjoj  
-spegulo (kun rubenoj)	5 markoj  
+<div style="font-family: monospace; margin-left:30px;">kajero	40 penioj  <br />
+limonado (esputita)	34 penioj  <br />
+medalo	3 markjoj  <br />
+spegulo (kun rubenoj)	5 markoj  <br /></div><br />
 
-Sume 8 markoj kaj 74 penioj  
-Pantalono 8 markoj   
-8=8   
-krom 74 penioj  
+<div style="font-family: monospace; margin-left:30px;">Sume 8 markoj kaj 74 penioj  <br />
+Pantalono 8 markoj   <br />
+8=8   <br />
+krom 74 penioj  <br /></div><br />
 
 “Sed tio ja ĝustas,” la snorko surprizite diris.
 
@@ -1585,11 +1564,11 @@ La dancejo situis en eta maldensejo. Ĝi estis ornamita per kronoj el lampiroj, 
 
 Snorkfraŭlino elprenis sian speguleton por kombi la fruntharojn kaj esplori, ĉu la floro sidas ĝuste malantaŭ ŝia orelo. Mumintrolo alĝustigis sian medalon. Ili neniam antaŭe vizitis tiel grandan balon.
 
+![][6-6]
+
 “Ĉu vi pensas ke mi ofendos la akridon, se mi iomete ludos per mia buŝharmoniko,” flustris Snufmumriko.
 
 “Ludu vi ambaŭ,” diris la snorko. “Instruu al li tiun kanton *‘Ĉiuj bestetoj bantigas la voston’.*”
-
-![][6-6]
 
 “Ĝi konvenos,” diris Snufmumriko. Kaj li venigis kun si la akridon malantaŭ arbedon por instrui al li la novan kanton.
 
@@ -1643,12 +1622,12 @@ Proksimume je noktomezo oni alrulis grandan barelon da pomvino, kaj ĉiu ricevis
 
 La mumriko ludis kaj la trolo fajfis kaj ĉiuj aliaj kunkantis en la rekantaĵo:
 
-*Vi paŝta paŝanto*  
-*jen fajfu kaj kantu*  
-*en nokta malvarm’.*  
-*Vi lacas ĉi fojon*  
-*kaj perdis la vojon*  
-*al hejma la ĉarm’.*  
+<div style="text-align:center; font-style: italic;">Vi paŝta paŝanto  <br />
+jen fajfu kaj kantu  <br />
+en nokta malvarm’.  <br />
+Vi lacas ĉi fojon  <br />
+kaj perdis la vojon  <br />
+al hejma la ĉarm’.  <br /></div>
 
 Snorkfraŭlino suspiris.
 
@@ -1886,8 +1865,6 @@ Dum la tuta tago ili marŝis tra la soleca mara pejzaĝo, pli kaj pli profunde s
 
 “Tio estas la maro,” diris Snufmumriko. “La konko memoras la maron.” Li ekemis muziki kaj elpoŝigis la buŝharmonikon. Sed eĉ ne unu sono elvenis el ĝi, la akvovaporo forpelis ĉiujn tonojn.
 
-![][7-8]
-
 “Jen aĉa afero,” diris Snufmumriko afliktite.
 
 “Paĉjo sendube riparos ĝin kiam ni venos hejmen,” diris Mumintrolo. “Li povas ripari ĉion ajn, se li nur iam komencas.”
@@ -1895,6 +1872,8 @@ Dum la tuta tago ili marŝis tra la soleca mara pejzaĝo, pli kaj pli profunde s
 “Nun ni estas proksime al la plej granda mara profundo,” diris Snufmumriko. “Paŝu singarde...”
 
 Jen ne plu troviĝis marherboj. La fundo de la maro krute deklivis antaŭ ili, kovrita de griza ŝlimo. Estis absolute silente kaj tre solene. Kaj jen, subite, ne plu troviĝis fundo. Ĝi malaperis en abismo el ombroj kaj akvovaporo.
+
+![][7-8]
 
 Neniu iris ĝis la rando por rigardi. Ili silente preteriris. Nur Snorkfraŭlino turnis sin kaj iomete suspiris, ĉar ĝuste ĉe la krutaĵo kuŝis la plej granda kaj bela konko de la maro. Ĝi estis tre blanka kaj lumis tra la krepusko. La maro kantis en ĝi.
 
@@ -1914,7 +1893,7 @@ Sed poste li pensis: “Panjo sendube scias kiel savi ĉion”.
 
 # Ĉapitro 8 #
 
-Snif vekiĝis kaj diris:”Morgaŭ ĝi venos.”
+Snif vekiĝis kaj diris: “Morgaŭ ĝi venos.”
 
 Ĉiuj rigardis la kometon (eĉ Snorkfraŭlino, sed tra la fruntharoj). Ĝi timige grandiĝis. Ĉirkaŭ si ĝi havis kronon el tremantaj flamoj. La akvovaporo malaperis, kaj eblis vidi foren super la mara fundo.
 
@@ -2058,18 +2037,18 @@ Ili plupaŝis tra la manĝita arbaro.
 
 “Kara mumriko,” li diris. “Ludu ion. Ne gravas ĉu ĝi estas malgaja.”
 
-“La buŝarmoniko difektiĝs,” diris Snufmumriko. Nur unu-du tonoj revenis.
+“La buŝarmoniko difektiĝs,” diris Snufmumriko. “Nur unu-du tonoj revenis.”
 
 “Nu, do ludu tiujn,” petis la trolo.
 
 Tiam Snufmumriko ludis la Paŝto-paŝanto-kanton:
 
-*--- paŝt--- ŝant---*  
-*--- fajf--- kant---*  
-*--- nokt--- varm’.*  
-*Vi lacas --- ---*  
-*kaj perdis --- ---*  
-*--- hejm--- ĉarm’.*  
+<div style="text-align:center; font-style: italic;">--- paŝt--- ŝant---  <br />
+--- fajf--- kant---  <br />
+--- nokt--- varm’.  <br />
+Vi lacas --- ---  <br />
+kaj perdis --- ---  <br />
+--- hejm--- ĉarm’.  <br /></div>
 
 “Tio sonis terure,” diris la hemulo.
 
@@ -2541,11 +2520,11 @@ Morgaŭ estos tempo por tio.
 
 Post kiam ili enlitiĝis kaj tiris kovrilon super la nazon, Snufmumriko elprenis sian buŝharmonikon. Kaj rimarkante ke ĉiuj tonoj jam revenis, kaj la grandaj kaj la etaj, li ludis lulkanton. Ĝi estis kanto kiun la patrino konis, do ŝi kunkantis, tre mallaŭte.
 
-*Dormu idetoj dum nigras ĉiel’*  
-*Flugas kometoj al duba la cel’*  
-*Sonĝ en pac’dum frostas la spac’*  
-*Poste vekiĝ al nova maten’*  
-*Ŝfidoj paŝiĝs sur freŝ teren’*  
+<div style="text-align:center; font-style: italic;">Dormu idetoj dum nigras ĉiel’  <br />
+Flugas kometoj al duba la cel’  <br />
+Sonĝ en pac’dum frostas la spac’  <br />
+Poste vekiĝ al nova maten’  <br />
+Ŝfidoj paŝiĝs sur freŝ teren’  <br /></div>
 
 Iom post iom iĝis tute kviete en la groto. Snif post iom vekiĝis kaj sentis ion molan al sia vizaĝo. Tio estis la katido. Li metis la brakon ĉirkaŭ ĝin kaj ili samtempe endormiĝis.
 
@@ -2558,7 +2537,7 @@ Iom post iom iĝis tute kviete en la groto. Snif post iom vekiĝis kaj sentis io
 
 ![][10-1]
 
-Mumintrolo vekiĝis ne sciante kie li estas. La groto estis plena de malforta duonlumo kaj odoris je petrolo. Tiam li rememoris ĉion kaj eksidis. La aliaj ankoraŭ dormis. La trolo plandis ĝis la pordo.
+\\noindent  Mumintrolo vekiĝis ne sciante kie li estas. La groto estis plena de malforta duonlumo kaj odoris je petrolo. Tiam li rememoris ĉion kaj eksidis. La aliaj ankoraŭ dormis. La trolo plandis ĝis la pordo.
 
 Malrapide li levis la plejdon kaj rigardis eksteren. La ruĝa lumo estis for. La ĉielo havis entute neniun koloron kaj regis absoluta silento.
 
@@ -2602,13 +2581,13 @@ Ili ĉiuj vekiĝis kaj elvenis el la groto kaj interesiĝis. Nur la hemulo ne su
 
 “Mi pensas, ke ĉio restas,” diris Mumintrolo. “Venu, ni iru rigardi!”
 
-[mapo]: mapo.png width=395px height=580px
+[map-bildo]: map-bildo.png width=394px height=580px
 
-[1-1]: 1-1.png width=400px height=211px
+[1-1]: 1-1.png width=450px height=237px
 
 [1-2]: 1-2.png width=150px height=305px
 
-[1-3]: 1-3.png width=400px height=191px
+[1-3]: 1-3.png width=450px height=214px
 
 [1-4]: 1-4.png width=100px height=90px
 
@@ -2620,23 +2599,23 @@ Ili ĉiuj vekiĝis kaj elvenis el la groto kaj interesiĝis. Nur la hemulo ne su
 
 [1-8]: 1-8.png width=450px height=307px
 
-[1-9]: 1-9.png width=350px height=361px
+[1-9]: 1-9.png width=359px height=371px
 
 [1-10]: 1-10.png width=450px height=450px
 
-[1-11]: 1-11.png width=400px height=193px
+[1-11]: 1-11.png width=414px height=200px
 
-[1-12]: 1-12.png width=300px height=258px
+[1-12]: 1-12.png width=322px height=278px
 
-[2-1]: 2-1.png width=400px height=208px
+[2-1]: 2-1.png width=450px height=234px
 
-[2-2]: 2-2.png width=250px height=201px
+[2-2]: 2-2.png width=234px height=190px
 
 [2-3]: 2-3.png width=100px height=147px
 
-[3-1]: 3-1.png width=200px height=169px
+[3-1]: 3-1.png width=189px height=160px
 
-[3-2]: 3-2.png width=350px height=169px
+[3-2]: 3-2.png width=331px height=160px
 
 [3-3]: 3-3.png width=321px height=125px
 
@@ -2644,7 +2623,7 @@ Ili ĉiuj vekiĝis kaj elvenis el la groto kaj interesiĝis. Nur la hemulo ne su
 
 [3-5]: 3-5.png width=425px height=463px
 
-[3-6]: 3-6.png width=450px height=230px
+[3-6]: 3-6.png width=440px height=225px
 
 [3-7]: 3-7.png width=249px height=261px
 
@@ -2652,17 +2631,17 @@ Ili ĉiuj vekiĝis kaj elvenis el la groto kaj interesiĝis. Nur la hemulo ne su
 
 [3-9]: 3-9.png width=450px height=660px
 
-[3-10]: 3-10.png width=450px height=396px
+[3-10]: 3-10.png width=425px height=372px
 
-[3-11]: 3-11.png width=321px height=189px
+[3-11]: 3-11.png width=350px height=206px
 
-[3-12]: 3-12.png width=290px height=200px
+[3-12]: 3-12.png width=349px height=241px
 
 [3-13]: 3-13.png width=439px height=427px
 
 [3-14]: 3-14.png width=150px height=66px
 
-[4-1]: 4-1.png width=343px height=500px
+[4-1]: 4-1.png width=450px height=655px
 
 [4-2]: 4-2.png width=284px height=160px
 
@@ -2686,15 +2665,15 @@ Ili ĉiuj vekiĝis kaj elvenis el la groto kaj interesiĝis. Nur la hemulo ne su
 
 [5-6]: 5-6.png width=350px height=158px
 
-[5-7]: 5-7.png width=400px height=440px
+[5-7]: 5-7.png width=425px height=467px
 
-[6-1]: 6-1.png width=400px height=191px
+[6-1]: 6-1.png width=450px height=214px
 
-[6-2]: 6-2.png width=425px height=440px
+[6-2]: 6-2.png width=445px height=462px
 
 [6-3]: 6-3.png width=100px height=153px
 
-[6-4]: 6-4.png width=200px height=176px
+[6-4]: 6-4.png width=211px height=186px
 
 [6-5]: 6-5.png width=249px height=176px
 
@@ -2704,11 +2683,11 @@ Ili ĉiuj vekiĝis kaj elvenis el la groto kaj interesiĝis. Nur la hemulo ne su
 
 [6-8]: 6-8.png width=100px height=116px
 
-[7-1]: 7-1.png width=328px height=163px
+[7-1]: 7-1.png width=449px height=223px
 
 [7-2]: 7-2.png width=448px height=371px
 
-[7-3]: 7-3.png width=331px height=184px
+[7-3]: 7-3.png width=430px height=238px
 
 [7-4]: 7-4.png width=449px height=658px
 
@@ -2716,21 +2695,21 @@ Ili ĉiuj vekiĝis kaj elvenis el la groto kaj interesiĝis. Nur la hemulo ne su
 
 [7-6]: 7-6.png width=449px height=364px
 
-[7-7]: 7-7.png width=284px height=181px
+[7-7]: 7-7.png width=324px height=206px
 
-[7-8]: 7-8.png width=450px height=531px
+[7-8]: 7-8.png width=350px height=413px
 
 [7-9]: 7-9.png width=200px height=138px
 
-[8-1]: 8-1.png width=400px height=198px
+[8-1]: 8-1.png width=364px height=180px
 
-[8-2]: 8-2.png width=400px height=132px
+[8-2]: 8-2.png width=417px height=138px
 
-[8-3]: 8-3.png width=350px height=185px
+[8-3]: 8-3.png width=301px height=160px
 
 [8-4]: 8-4.png width=400px height=58px
 
-[8-5]: 8-5.png width=350px height=131px
+[8-5]: 8-5.png width=293px height=110px
 
 [8-6]: 8-6.png width=350px height=143px
 
