@@ -1752,9 +1752,7 @@ Snufmumriko stabile iris tien-reen per siaj stilzoj montrante al la aliaj kiel o
 
 Kaj Snif tuj ĉesis malbonfarti.
 
-“Rigardu min,” vokis Snorkfraŭlino. “Mi kapablas! Mi kapablas!”
-
-Mi tute ne pensas, mi nur sentas!
+“Rigardu min,” vokis Snorkfraŭlino. “Mi kapablas! Mi kapablas! Mi tute ne pensas, mi nur sentas!”
 
 “Tion ni scias,” diris ŝia frato.
 
@@ -1802,9 +1800,7 @@ La rokoj iĝis pli altaj kaj sovaĝaj, kaj la grundo estis plena de fendegoj. La
 
 “Ĉu vi pensas ke ili saviĝis?” flustris Snorkfraŭlino.
 
-“Kompreneble,” respondis Mumintrolo. “Ili ja havis savboatojn.”
-
-Venu, ni foriru. Ĝi aspektas vere tro malĝojiga.
+“Kompreneble,” respondis Mumintrolo. “Ili ja havis savboatojn. Venu, ni foriru. Ĝi aspektas vere tro malĝojiga.”
 
 “Atendu iomete,” vokis Snif kaj saltis suben de la stilzoj. “Mi vidas ion glimantan! Ion el oro!” Li enrampis sub la vrako kaj komencis fosi inter la marherboj.
 
@@ -1842,9 +1838,7 @@ Kaj Mumintrolo levis ŝin sur la randon de la holda truo.
 
 “Kiel prosperas al vi?” vokis Snufmumriko.
 
-“Mi refoje estas savita,” gaje respondis Snorkfraŭlino kaj elprenis sian speguleton por esplori ĉu ĝi frakasiĝis.  Sed dank’ al
-
-Dio, la vitro estis en ordo kaj ĉiuj rozaj rubenoj restis dorsflanke. En la spegulo Snorkfraŭlino vidis sian propran malsekan frunthararon, ŝi vidis la nigran truon, ŝi vidis la okulojn de Mumintrolo tie sube kaj malantaŭ li, plej fore en la mallumo ŝi vidis ion alian --- ion kio moviĝis. Kio malrapide rampis pli kaj pli proksimen al Mumintrolo...
+“Mi refoje estas savita,” gaje respondis Snorkfraŭlino kaj elprenis sian speguleton por esplori ĉu ĝi frakasiĝis.  Sed dank’ al Dio, la vitro estis en ordo kaj ĉiuj rozaj rubenoj restis dorsflanke. En la spegulo Snorkfraŭlino vidis sian propran malsekan frunthararon, ŝi vidis la nigran truon, ŝi vidis la okulojn de Mumintrolo tie sube kaj malantaŭ li, plej fore en la mallumo ŝi vidis ion alian --- ion kio moviĝis. Kio malrapide rampis pli kaj pli proksimen al Mumintrolo...
 
 “Atentu!” ŝi kriis. “Estas io malantaŭ vi!”
 
@@ -1936,9 +1930,7 @@ Ili restis kelkan tempon rigardante post li.
 
 “Valizo!” diris Snufmumriko. “Pakoj kaj skatoloj! En ĉi tiu varmego. Venu, ni pluiru.”
 
-Iom pli fore ili vidis plurcent hatifnatojn survoje orienten. Sur la tuta fundo de la maro svarmis fuĝantoj. Etuloj kaj knitoj ĉiuspecaj, musaj familioj kaj muskaj troloj kaj arbaranoj, kaj ĉiuj survojis for de
-
-Muminvalo. La plej multaj venis piede, kelkaj el la pli ekscititaj kuris, sed la plej grandaj familioj akiris ĉarojn aŭ eĉ veturilon, kaj iuj kunportis sian tutan domon. Ĉiuj ĵetis timajn rigardojn alĉielen, kaj preskaŭ neniu havis tempon diri pli ol ‘saluton’.
+Iom pli fore ili vidis plurcent hatifnatojn survoje orienten. Sur la tuta fundo de la maro svarmis fuĝantoj. Etuloj kaj knitoj ĉiuspecaj, musaj familioj kaj muskaj troloj kaj arbaranoj, kaj ĉiuj survojis for de Muminvalo. La plej multaj venis piede, kelkaj el la pli ekscititaj kuris, sed la plej grandaj familioj akiris ĉarojn aŭ eĉ veturilon, kaj iuj kunportis sian tutan domon. Ĉiuj ĵetis timajn rigardojn alĉielen, kaj preskaŭ neniu havis tempon diri pli ol ‘saluton’.
 
 “Kiel strange,” diris malgaje Mumintrolo. “Mi konas tiel multajn el ili, kaj ni jam delonge ne renkontis unu la alian. Kaj ĝuste nun troviĝas tiom por priparoli!”
 
@@ -1998,9 +1990,7 @@ En la arbaro ili renkontis hemulon kiu kverelis al si mem kun poŝtmarkalbumo en
 
 “Mia bela groto,” diris Snif.
 <div class="verda">★</div>
-Tiel do okazis, ke la hemulo kuniris en la marŝo kontraŭ Muminvalo. Li estis tre ĝena akompananto, sed tio estis neevitebla. Unufoje ili devis reiri plurajn kilometrojn por serĉi mispresaĵon kiun li perdis, kaj dufoje li ekkverelis kun la snorko pri io kion neniu el ili bone sciis
-
-(ili asertis ke tio estis diskuto, sed ĝi sonis kiel kverelo).
+Tiel do okazis, ke la hemulo kuniris en la marŝo kontraŭ Muminvalo. Li estis tre ĝena akompananto, sed tio estis neevitebla. Unufoje ili devis reiri plurajn kilometrojn por serĉi mispresaĵon kiun li perdis, kaj dufoje li ekkverelis kun la snorko pri io kion neniu el ili bone sciis (ili asertis ke tio estis diskuto, sed ĝi sonis kiel kverelo).
 
 Snif iris unuope kaj estis nekutime silenta. Li pensis pri la katido. Ĉu la patrino de Mumintrolo memoris elmeti lakton al ĝi? Imagu, se la katido ne komprenos ke ĝi ŝatu Snif’on, kaj anstataŭe ekŝatos la patrinon? Ĉu ĝi frotos sin al li aŭ nur foriros kun la vosto ĉielen?
 
@@ -2024,9 +2014,7 @@ Snorkfraŭlino surgrimpis grandan ŝtonon kaj staris kriante.
 
 “Ĉu vi pensas ke ili krome manĝas poŝtmarkojn?” demandis la hemulo.
 
-Li staris tenante sian
-
-poŝtmarkalbumon enbrake.
+Li staris tenante sian poŝtmarkalbumon enbrake.
 
 “La bela arbaro!” vokis Mumintrolo. “Rigardu, kiel ĝi aspektas!”
 
@@ -2108,11 +2096,7 @@ Nun venis la nigra nubo, ĝi estis tute proksima.
 
 “Fikstenu kaj ne lasu la prenon!” kriis Snufmumriko. “Nun ni flugos post via poŝtmarkalbumo! Ĉiuj firme kaptis la falbalon de la hemulrobo kaj la ŝtormo eniris ĝin kaj levis ĝin, kaj nun la nigra nubo jam estis super la marĉo kaj hurlante kaj muĝante postsekvis ilin. La tero malaperis sub iliaj piedoj kaj ĉio iĝis tute malluma. Kaj ili flugis foren, foren okcidenten, rekte en la krepuskon kaj nokton.”
 <div class="verda">★</div>
-Baldaŭ antaŭ noktomezo la ciklono perdis sian spiron kaj nodis sin mem.
-
-La balono malsubite sinkis en arbaron kaj restis pendanta de alta arbo.
-
-Dumlonge neniu ion diris. Ili kaŭris inter la branĉoj kaj rigardis en la ruĝan mallumon de la arbaro aŭdante la ciklonon malaperi, pli kaj pli malproksimen. Fine ĝi estis nur mallaŭta hurlo, kaj poste tute silentiĝis.
+Baldaŭ antaŭ noktomezo la ciklono perdis sian spiron kaj nodis sin mem. La balono malsubite sinkis en arbaron kaj restis pendanta de alta arbo. Dumlonge neniu ion diris. Ili kaŭris inter la branĉoj kaj rigardis en la ruĝan mallumon de la arbaro aŭdante la ciklonon malaperi, pli kaj pli malproksimen. Fine ĝi estis nur mallaŭta hurlo, kaj poste tute silentiĝis.
 
 Tiam Snufmumriko demandis: “Kiel estas al vi?”
 
@@ -2169,7 +2153,7 @@ La arboj maldensiĝis. La odoro de ĵus bakitaj bulkoj intensiĝis. Kaj subite M
 “Jen la ponto pri kiu vi parolis,” diris Snorkfraŭlino. “Kaj tio sendube estas la arbo por grimpado. Kia bona domo kaj kia bela verando!”
 
 Snif rigardis la verandan ŝtuparon. Sed neniu katido sidis tie atendante.
-
+<div class="verda">★</div>
 Kuireje la patrino de Mumintrolo dekoraciis altan kukon per rozkolora batkremo. Ĉirkaŭ ĝi estis skribite per belaj maŝoj el ĉokolado: “Al mia amata Mumintrolo”, kaj plej supre ĝi havis stelon el sukero.
 
 Panjo malrapide fajfetis dum ŝi jen kaj jen rigardis eksteren tra la fenestro. Muminpatro vagis de unu ĉambro al la alia, zorgante kaj barante al ŝi la vojon.
@@ -2214,7 +2198,7 @@ Kiel vi estas maldikaj kaj malpuraj! Nu, kia ĝojo... Ĉu tio estas reala?
 
 Ĉiuj manpremis reciproke.
 
-“Tre interese,” diris la patro de Mumintrolo.” Kolekti poŝtmarkojn estas tre nobla hobio.
+“Tre interese,” diris la patro de Mumintrolo. “Kolekti poŝtmarkojn estas tre nobla hobio.”
 
 “Ĝi tute ne estas hobio, ĝi estas mia profesio,” elsnufis la hemulo, ĉar li malbone dormis.
 
@@ -2234,9 +2218,7 @@ La hemulo ĵetis unu solan rigardon al sia ruĝa poŝtmarkalbumo kaj kriis pro �
 
 “Iuj estas ege feliĉaj,” Snif amare diris. Neniu katido venis saluti lin. Kun akuza mieno li montris al la subtaso kun lakto, kiu staris sur la veranda ŝtuparo. La lakto ŝajnas acida, li diris.
 
-“Tio estas pro la varmego,” klarigis la patrino. “Nenio konserviĝas en ĉi tiu varmego. Sed ĝi tiel malofte venas por trinki...”
-
-Kara infano, nun ni iom matenmanĝu. Venu saluti la moskoraton.
+“Tio estas pro la varmego,” klarigis la patrino. “Nenio konserviĝas en ĉi tiu varmego. Sed ĝi tiel malofte venas por trinki... Kara infano, nun ni iom matenmanĝu. Venu saluti la moskoraton.”
 
 Sed Snif restis en la ĝardeno. Li rampis sub la arbedojn por logi la katidon. Li serĉis en la lignejo. Ĉie li serĉis vokante, sed la katido ne venis.
 
@@ -2248,9 +2230,7 @@ Tiam Snif reiris al la verando, kie la ceteraj matenmanĝis parolante pri la kom
 
 “Atendu iomete,” vokis la snorko. “Ni devas havi kunvenon pri la afero! Kunvenegon! Oni ja ne povas tutsimple tiel decidi.”
 
-“Kial ne,” diris Snorkfraŭlino. “Ne eblas ja decidi malrapide.”
-
-Ni transloĝiĝos en la groton kaj kunportos ĉiujn niajn valoraĵojn!
+“Kial ne,” diris Snorkfraŭlino. “Ne *eblas* ja decidi malrapide. Ni transloĝiĝos en la groton kaj kunportos ĉiujn niajn valoraĵojn!”
 
 “Jes! Ĉu vi vidis mian ponardon?” kriis Snif.
 
@@ -2258,7 +2238,7 @@ Ni transloĝiĝos en la groton kaj kunportos ĉiujn niajn valoraĵojn!
 
 Ĉiuj kriis samtempe kaj gestis permane, kaj Snif elverŝis la tutan laktoglason sur la tablotukon.
 
-La moskorato ekstaris dirante: “Vi iĝas pli kaj pli ĝenaj. Kaj ĉiu ĉi parolado estas nenecesa, ĉar vi ĉiuokaze fariĝos kaĉo. Nun mi kuŝiĝos sur la hamako por pensi. Adiaŭ ĝis iam, se ni neniam plu revidos nin.”
+La moskorato ekstaris dirante: “Vi iĝas pli kaj pli ĝenaj. Kaj ĉiu ĉi parolado estas nenecesa, ĉar vi ĉiuokaze fariĝos kaĉo. Nun mi kuŝiĝos sur la hamako por *pensi*. Adiaŭ ĝis iam, se ni neniam plu revidos nin.”
 
 ![][9-3]
 
@@ -2290,7 +2270,7 @@ La patro stakis valizojn kaj pakojn kaj sakojn kaj korbojn kaj skatolojn sur la 
 
 Nun la varmego estis premega, kaj la morta strando kuŝis en terura malhelruĝa lumo. La patro klopodis ne rigardi la timigan pejzaĝon. Li nur veturigis sian ĉarumon tienreen kaj demandis sin kiel li sukcesis akiri tiom da nenecesaj aĵoj de sia junaĝo. De temp’ al tempo li rigardis la horloĝon.
 
-“Jen la lasta ŝarĝo, “li pensis.” Kaj neniam ŝi rajtos kunporti ĉiujn ŝrankobutonojn kaj kamenklapŝnurojn...” Poste li reiris al Muminvalo la lastan fojon.
+“Jen la lasta ŝarĝo,” li pensis. “Kaj neniam ŝi rajtos kunporti ĉiujn ŝrankobutonojn kaj kamenklapŝnurojn...” Poste li reiris al Muminvalo la lastan fojon.
 <div class="verda">★</div>
 Hejme la patrino estis okupita elŝovi la bankuvon surteren. Snif staris apude tenante la subtason kun lakto enmane.
 
@@ -2396,13 +2376,13 @@ La hemulo ridis kaj pluis glui poŝtmarkojn en sian albumon.
 
 “Vi ege pravas,” li murmuris. “Bruado. Nenio krom bruado.”
 
-Sed kie ĝi do troviĝas!? ekkriis Muminpanjo konsternite. Kara Snif, tamen ne eblas ke vi formanĝis la tutan kukon survoje?
+“Sed kie ĝi do troviĝas!?” ekkriis Muminpanjo konsternite. “Kara Snif, tamen ne eblas ke vi formanĝis la tutan kukon survoje?”
 
 “Ĝi estis tro granda,” diris Snif neglekte.
 
 “Do vi tamen manĝis el ĝi!” kriis Mumintrolo.
 
-“Nur la pintan stelon, kaj ĝi estis malmola kiel morho!” rekriis Snif kaj enrampis sub la matracon. Li ne plu volis vidi ilin. Estis skribite “Al mia amata Mumintrolo” sur la kuko, kaj tute ne “al mia amata Snif”. Kaj la katido ne alvenis kvankam estis post la oka.
+“Nur la pintan stelon, kaj ĝi estis malmola kiel morho!” rekriis Snif kaj enrampis sub la matracon. Li ne plu volis vidi ilin. Estis skribite ‘Al mia amata Mumintrolo’ sur la kuko, kaj tute ne ‘al mia amata Snif’. Kaj la katido ne alvenis kvankam estis post la oka.
 
 “Oj oj tamen,” diris la patrino de Mumintrolo kaj sidiĝis sur seĝon ĉar ŝi estis sufiĉe laca. “Kia mizero pri ĉio.”
 
@@ -2420,17 +2400,15 @@ Snorkfraŭlino akre rigardis la moskoraton.
 
 “Trankviliĝu, trankviliĝu ĉiuj,” diris la patrino. “Estas la sama alta kuko kvankam ĝi ekhavis novan formon...” Sed neniu aŭskultis ŝin.
 
-Snufmumriko komencis ridi. Kaj Snif, pensante ke oni ridas pri li, reaperis el sub la matraco kaj kriis: “Mi fajfas je viaj aĉaj kukoj! Kiuj estas nur por Mumintrolo kaj tute ne por mi! Kaj neniu pensas, ke ankaŭ katoj ŝatas kremon! Kaj nun mi iras alporti mian katidon, ĉar ĝi ĉiuokaze estas la sola, kiu zorgas pri mi! Kaj jen li elkuris el sub la plejdo kaj malaperis.”
+Snufmumriko komencis ridi. Kaj Snif, pensante ke oni ridas pri li, reaperis el sub la matraco kaj kriis: “Mi fajfas je viaj aĉaj kukoj! Kiuj estas nur por Mumintrolo kaj tute ne por mi! Kaj neniu pensas, ke ankaŭ katoj ŝatas kremon! Kaj nun mi iras alporti mian katidon, ĉar ĝi ĉiuokaze estas la sola, kiu zorgas pri mi!” Kaj jen li elkuris el sub la plejdo kaj malaperis.
 
 ![][9-7]
 
-“Kiel terure!” ekkriis la patrino de Mumintrolo. “Kompreneble ĝi devus teksti ankaŭ “al mia amata Snif”... Kiel mi povis!”
+“Kiel terure!” ekkriis la patrino de Mumintrolo. “Kompreneble ĝi devus teksti ankaŭ ‘al mia amata Snif’... Kiel mi povis!”
 
 “Nun vi devos donaci al li ion tre belan,” serioze diris la patro.
 
-Muminpanjo kapjesis. Ŝi decidis ke Snif ricevu la smeraldojn de avino.
-
-Ili povus iĝi tre bela kolĉeno por la katido...
+Muminpanjo kapjesis. Ŝi decidis ke Snif ricevu la smeraldojn de avino. Ili povus iĝi tre bela kolĉeno por la katido...
 
 Snufmumriko levis la plejdon kaj rigardis eksteren el la groto.
 
@@ -2480,13 +2458,11 @@ Mumintrolo ĵetis sin en la ruĝan arbaron. Li kuris sep paŝojn kaj poste vokis
 
 ![][9-9]
 
-Kaj tiam de malproksime venis malforta krio. Mumintrolo metis la manojn albuŝe kaj kriis plenforte:
-
-“Snif!!!”
+Kaj tiam de malproksime venis malforta krio. Mumintrolo metis la manojn albuŝe kaj kriis plenforte: “*Snif!!!*”
 
 Kaj la besteto Snif refoje respondis, multe pli proksime.
 
-Ili eĉ ne diris “saluton” kiam ili renkontiĝis. Ili nur kuris. Post ili saltetis la katido. Kaj super ili falegis la kometo pli kaj pli proksimen al la terurita, atendanta Muminvalo
+Ili eĉ ne diris “saluton” kiam ili renkontiĝis. Ili nur kuris. Post ili saltetis la katido. Kaj super ili falegis la kometo pli kaj pli proksimen al la terurita, atendanta Muminvalo.
 
 ![][9-10]
 
@@ -2496,17 +2472,13 @@ Ankoraŭ ses minutojn... Estis peze kuri sur la sablo, tio iris same malrapide k
 
 Kaj la patrino de Mumintrolo tre rapide diris: “Kia bela kateto! Mi havas donacon por vi... Mi intencis doni al vi la smeraldojn de avino kiel bonvenigan donacon, sed mi forgesis tion en la pelmelo... Eble vi povos fari kolĉenon por la kato el ili...”
 
-“La smeraldoj!” vokis Snif. “La familia heredo! Por la kato!”
-
-Ho, kiel mirinde. Ho, kiel feliĉa mi estas!
+“La smeraldoj!” vokis Snif. “La familia heredo! Por la kato! Ho, kiel mirinde. Ho, kiel feliĉa mi estas!”
 
 Kaj en tiu sama sekundo la kometo alvenis al la tero, arda kaj vestita per fajro, kaj la petrollampo falis flanken sur la sablon kaj estingiĝis. Estis precize kvardek du minutoj kaj kvar sekundoj post la oka.
 
 Sub la plejdo preparita per subtera sunoleo lumis blindiga ruĝa lumo, sed la groto estis en nigra mallumo.
 
-Ili firme tenis unu la alian plej fore en la plej interna angulo aŭdante hajladon el meteorŝtonoj klakadi kontraŭ la bankuvon super la plafono.
-
-La moskorato fiksiĝis en la lavujo. La hemulo kuŝis surventre super sia poŝtmarkalbumo por ke ĝi ne refoje forbloviĝu de li.
+Ili firme tenis unu la alian plej fore en la plej interna angulo aŭdante hajladon el meteorŝtonoj klakadi kontraŭ la bankuvon super la plafono. La moskorato fiksiĝis en la lavujo. La hemulo kuŝis surventre super sia poŝtmarkalbumo por ke ĝi ne refoje forbloviĝu de li.
 
 ![][9-11]
 
@@ -2528,9 +2500,7 @@ La snorko ridis, kaj poste ili denove silentis. La patrino trovis la petrollampo
 
 “Estis tiel terure,” diris Snorkfraŭlino. “Mi neniam plu volas rigardi horloĝon!”
 
-“Nun ni enlitiĝu,” diris la patrino. “Ni ne plu parolu pri la kometo, nek pensu pri ĝi. Kaj neniu rajtas rigardi, kio okazis ekstere.”
-
-Morgaŭ estos tempo por tio.
+“Nun ni enlitiĝu,” diris la patrino. “Ni ne plu parolu pri la kometo, nek pensu pri ĝi. Kaj neniu rajtas rigardi, kio okazis ekstere. Morgaŭ estos tempo por tio.”
 
 Post kiam ili enlitiĝis kaj tiris kovrilon super la nazon, Snufmumriko elprenis sian buŝharmonikon. Kaj rimarkante ke ĉiuj tonoj jam revenis, kaj la grandaj kaj la etaj, li ludis lulkanton. Ĝi estis kanto kiun la patrino konis, do ŝi kunkantis, tre mallaŭte.
 
@@ -2555,11 +2525,7 @@ Iom post iom iĝis tute kviete en la groto. Snif post iom vekiĝis kaj sentis io
 
 ![][10-1]
 
-Mumintrolo vekiĝis ne sciante kie li estas. La groto estis plena de malforta duonlumo kaj odoris je petrolo. Tiam li rememoris ĉion kaj eksidis. La aliaj ankoraŭ dormis. La trolo plandis ĝis la pordo.
-
-Malrapide li levis la plejdon kaj rigardis eksteren. La ruĝa lumo estis for. La ĉielo havis entute neniun koloron kaj regis absoluta silento.
-
-Mumintrolo elrampis kaj sidiĝis sur la roko. Li levis meteorŝtonon kiun la kometo forĵetis kaj rigardis ĝin. Ĝi estis nigra kaj dorna kaj pezega. Li rigardis la longan sablostrandon kaj la malplenan maron. Ĉio estis same senkolora kaj silenta.
+Mumintrolo vekiĝis ne sciante kie li estas. La groto estis plena de malforta duonlumo kaj odoris je petrolo. Tiam li rememoris ĉion kaj eksidis. La aliaj ankoraŭ dormis. La trolo plandis ĝis la pordo. Malrapide li levis la plejdon kaj rigardis eksteren. La ruĝa lumo estis for. La ĉielo havis entute neniun koloron kaj regis absoluta silento. Mumintrolo elrampis kaj sidiĝis sur la roko. Li levis meteorŝtonon kiun la kometo forĵetis kaj rigardis ĝin. Ĝi estis nigra kaj dorna kaj pezega. Li rigardis la longan sablostrandon kaj la malplenan maron. Ĉio estis same senkolora kaj silenta.
 
 Mumintrolo atendis terurajn truojn en la tero, ian draman ŝanĝon. Li ne sciis kion kredi kaj iomete timis.
 
