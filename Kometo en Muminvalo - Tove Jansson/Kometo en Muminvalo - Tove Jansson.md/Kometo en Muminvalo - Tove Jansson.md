@@ -12,13 +12,13 @@ Description: Kiam Mumintrolo lernis ke kometo preterpasos, li kaj lia amiko Snif
 
 En la sama mateno, kiam la patro de Mumintrolo pretigis ponton trans la riveron, la besteto Snif faris eltrovon. Li trovis tute novan vojon. Ĝi enŝteliĝis en la arbaron en malluma loko, kaj Snif longe rigardis al ĝi.
 
-“Ĉi tion mi rakontos al Mumintrolo,” li pensis. “Ni devos kune esplori tiun vojon, ĉar mi ne riskos tion sola.”
+‘Ĉi tion mi rakontos al Mumintrolo,’ li pensis. ‘Ni devos kune esplori tiun vojon, ĉar mi ne riskos tion sola.’
 
 Poste li metis du branĉetojn kruce por retrovi la lokon kaj salte kuris hejmen plejeble rapide.
 
 La valo kie ili loĝis estis tre bela. Ĝi estis plena de feliĉaj bestetoj kaj verdaj arbegoj. Tra la herbejoj fluis la rivero, ĝi faris kurbon ĉirkaŭ la blua mumindomo kaj malaperis al aliaj lokoj kun aliaj bestetoj, kiuj demandis sin de kie ĝi venas.
 
-“Estas io stranga pri vojoj kaj riveroj,” Snif pensis, “oni vidas ilin preterpasi kaj ekhavas teruran emon esti aliloke. Akompani por vidi kie ili finiĝas...”
+‘Estas io stranga pri vojoj kaj riveroj,’ Snif pensis, ‘oni vidas ilin preterpasi kaj ekhavas teruran emon esti aliloke. Akompani por vidi kie ili finiĝas...’
 <div class="verda">★</div>
 Mumintrolo estis okupita fiksi pendolilon, kiam Snif revenis hejmen.
 
@@ -120,7 +120,7 @@ Mumintrolo kapjesis.
 
 Li iom serĉis skatolojn, sed troviĝis neniu. Nur fukoj kaj kelkaj tabulstumpoj. La strando estis longa kaj soleca kaj ĝi finiĝis per alta monto kiu deklivis rekte suben en la akvon. La tuta monto estis malseka de onda ŝaŭmo.
 
-“Ĉi tio ne plu estas amuza,” pensis Snif. “Mi ne plu volas esti malgranda kaj sen iu kunludanto...”
+‘Ĉi tio ne plu estas amuza,’ pensis Snif. ‘Mi ne plu volas esti malgranda kaj sen iu kunludanto...’
 
 ![][1-6]
 
@@ -202,7 +202,7 @@ Poste ŝi pluis distribui konkojn, laŭvice unu bluan, du blankajn kaj unu ruĝa
 
 Malkvieta vento pasis tra la arboj, kiuj suspiris kaj skuis sin kaj turnis ĉiujn foliojn inverse. Longaj, grizaj nuboj ekvelis tra la ĉielo.
 
-“Mi esperas ke ne denove estos inunda pluvo,” pensis la patrino de Mumintrolo. Ŝi kolektis kelkajn konkojn superfluajn kaj eniris en la domon ĝuste kiam ekfalis la unuaj gutoj.
+‘Mi esperas ke ne denove estos inunda pluvo,’ pensis la patrino de Mumintrolo. Ŝi kolektis kelkajn konkojn superfluajn kaj eniris en la domon ĝuste kiam ekfalis la unuaj gutoj.
 
 Snif kaj Mumintrolo endormiĝis meze sur la salona tapiŝo. La patrino etendis plejdon sur ilin kaj sidiĝis ĉefenestre por rigardi la pluvon.
 
@@ -372,7 +372,7 @@ Kiam ŝi finpensis, ŝi paŝis ĝis la veranda ŝtuparo.
 
 Mumintrolo tuj stariĝis kaj diris: “Ni ekscios tion. Vi ne estu maltrankvila. Eble la tero estas multe pli granda ol oni kredas.”
 
-La kruroj de Snif moliĝis pro ekscito, kaj li pensis: “Mi rajtas kuniri. Mi ne estas tro malgranda por kuniri!”
+La kruroj de Snif moliĝis pro ekscito, kaj li pensis: ‘Mi rajtas kuniri. Mi ne estas tro malgranda por kuniri!’
 
 Li turnis sin al la patrino de Mumintrolo kaj diris:  Ni zorgos pri la afero. Estu trankvila. Sed ne forgesu elmeti subtason da lakto sur la ŝtuparon ĉiutage dum mi estos for. Mi ne diras kial ĉar tio estas sekreto.”
 
@@ -1007,7 +1007,7 @@ Li malaperis en la krepuskon kaj tiris la ceteran duopon post si per la ŝnuro. 
 
 Malproksime oni videtis la mallarĝan rubandon de la rivero kaj malhelajn makulojn el arbaro.
 
-“Nu,” pensis Snufmumriko. “Estos plej bone se ili rajtos iri hejmen. Kaj supozeble snorkfraŭlino kun piedringo estas pli bona ol senringa, ĉu la kometo venos aŭ ne”.
+‘Nu,’ pensis Snufmumriko. ‘Estos plej bone se ili rajtos iri hejmen. Kaj supozeble snorkfraŭlino kun piedringo estas pli bona ol senringa, ĉu la kometo venos aŭ ne.’
 
 ----
 
@@ -1888,7 +1888,7 @@ Mumintrolo prenis la unuan vaĉon kaj decidis preni ankaŭ tiun de Snorkfraŭlin
 
 Mumintrolo rigardis la malgajan pejzaĝon kaj pensis pri tio, kiel la tero devas timi vidante la brilan fajroglobon alproksimiĝi. Li pensis pri tio, kiom li ege amis ĉion, la arbaron kaj maron, la pluvon kaj venton, la sunbrilon kaj herbojn kaj muskojn, kaj kiel maleblus al li vivi sen ĉio ĉi.
 
-Sed poste li pensis: “Panjo sendube scias kiel savi ĉion”.
+Sed poste li pensis: ‘Panjo sendube scias kiel savi ĉion.’
 
 ![][7-9]
 
@@ -1918,9 +1918,7 @@ La skruto elseliĝis de la biciklo kaj rapide diris:
 
 “La moskorato,” respondis la skruto.
 
-“Nu, tamen Paĉjo kaj Panjo,” vokis Mumintrolo. “Ili ja restas!”
-
-Ili atendas min!
+“Nu, tamen Paĉjo kaj Panjo,” vokis Mumintrolo. “Ili ja restas! Ili atendas min!”
 
 “Jesjesjes,” diris senpacience la skruto. “Ili sidas en la verando. Sed tio ne koncernas min! Cetere vi ne havas tempon atingi tien...”
 
@@ -2030,7 +2028,7 @@ Li staris tenante sian poŝtmarkalbumon enbrake.
 
 Ili plupaŝis tra la manĝita arbaro.
 
-“Ke ili nur ne formanĝu ankaŭ la ĝardenon,” pensis Mumintrolo. “Panjo iĝus tute ekster si. Kaj la tabakbedo de Paĉjo...”
+‘Ke ili nur ne formanĝu ankaŭ la ĝardenon,’ pensis Mumintrolo. ‘Panjo iĝus tute ekster si. Kaj la tabakbedo de Paĉjo...’
 
 “Kara mumriko,” li diris. “Ludu ion. Ne gravas ĉu ĝi estas malgaja.”
 
@@ -2072,7 +2070,7 @@ Mumintrolo rekte ĉielen.
 
 “Mi timas!” vokis Snorkfraŭlino. “Tenu mian manon...”
 
-Mumintrolo firme kaptis ŝian manon. “Se mi nur havus grandan balonon,” li pensis. “Ni flugus hejmen... rekte ĝis Paĉjo kaj Panjo...”
+Mumintrolo firme kaptis ŝian manon. ‘Se mi nur havus grandan balonon,’ li pensis. ‘Ni flugus hejmen... rekte ĝis Paĉjo kaj Panjo...’
 
 Kaj tiam la hemulo kriis pli terure ol nebulsireno. La ŝtormo forprenis de li lian poŝtmarkalbumon, kaj tiu nun disflugis en la mondon kun ĉiuj mispresaĵoj, kvaropoj kaj akvomarkoj, ĝi flirtis kiel birdo kaj iĝis pli kaj pli malgranda... La hemulo postkuris. Liaj jupoj leviĝis de la ŝtormo kaj flirtis kaj batis. Kiel granda kajto la hemulo flugaĉis antaŭen super la tero ĝis li fiksiĝis al arbedo. Tie li ŝovis la robon super la kapon kaj forlasis ĉiun esperon.
 
@@ -2144,7 +2142,7 @@ Snif iris pensante pri sia katido. Ĉu ĝi sidos sur la veranda ŝtuparo?
 
 “Ja urĝas!” ekkriis la hemulo. “Ĉiuj rapidas. Ĉiuj bruas! Neniam estas kvieto surtere!” Li paŝis serĉante sian poŝtmarkalbumon ĉie, kaj lia vizaĝo estis ĉifita pro malĝojo. Estis terure varmege kaj restis al ili nenio por manĝi aŭ trinki. Ili nur paŝis, paŝadis.
 
-“Kiel stranga oni povas iĝi, se oni sopiras je io”, pensis Mumintrolo. “Absolute ŝajnas al mi, ke mi flaras agrablan odoron de ĵus bakitaj bulkoj”. Li suspiris kaj plupaŝis. Post iom li haltis kaj flaris per levita nazo. Kaj jen li komencis kuri.
+‘Kiel stranga oni povas iĝi, se oni sopiras je io,’ pensis Mumintrolo. ‘Absolute ŝajnas al mi, ke mi flaras agrablan odoron de ĵus bakitaj bulkoj.’ Li suspiris kaj plupaŝis. Post iom li haltis kaj flaris per levita nazo. Kaj jen li komencis kuri.
 
 La arboj maldensiĝis. La odoro de ĵus bakitaj bulkoj intensiĝis. Kaj subite Muminvalo etendiĝis antaŭ li kun sia blua mumindomo, same trankvila kaj ĉiutaga kiel kiam li ekiris de hejme. Kaj endome lia patrino bakadis spickukojn en kvieto kaj paco.
 
@@ -2270,7 +2268,7 @@ La patro stakis valizojn kaj pakojn kaj sakojn kaj korbojn kaj skatolojn sur la 
 
 Nun la varmego estis premega, kaj la morta strando kuŝis en terura malhelruĝa lumo. La patro klopodis ne rigardi la timigan pejzaĝon. Li nur veturigis sian ĉarumon tienreen kaj demandis sin kiel li sukcesis akiri tiom da nenecesaj aĵoj de sia junaĝo. De temp’ al tempo li rigardis la horloĝon.
 
-“Jen la lasta ŝarĝo,” li pensis. “Kaj neniam ŝi rajtos kunporti ĉiujn ŝrankobutonojn kaj kamenklapŝnurojn...” Poste li reiris al Muminvalo la lastan fojon.
+‘Jen la lasta ŝarĝo,’ li pensis. ‘Kaj neniam ŝi rajtos kunporti ĉiujn ŝrankobutonojn kaj kamenklapŝnurojn...’ Poste li reiris al Muminvalo la lastan fojon.
 <div class="verda">★</div>
 Hejme la patrino estis okupita elŝovi la bankuvon surteren. Snif staris apude tenante la subtason kun lakto enmane.
 
