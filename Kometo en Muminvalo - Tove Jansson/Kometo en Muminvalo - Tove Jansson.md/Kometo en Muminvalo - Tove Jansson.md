@@ -1950,9 +1950,7 @@ Snorkfraŭlino enŝovis sian manon en tiun de Mumintrolo.
 <div class="verda">★</div>
 Kaj finfine ili atingis la alian bordon. Ili saltis suben de la stilzoj kaj rulis sin sur la sablo, ili kuris en la arbaron, ili kriis kaj ridis kaj brakumis unu la alian.
 
-“Ni preskaŭ venis hejmen!” vokis Mumintrolo. “Rapidu! Rapidu!”
-
-Paĉjo kaj Panjo sidas atendante en la verando!
+“Ni preskaŭ venis hejmen!” vokis Mumintrolo. “Rapidu! Rapidu! Paĉjo kaj Panjo sidas atendante en la verando!”
 
 Sed la vojo hejmen estis multe pli longa ol ili pensis.
 
@@ -2032,7 +2030,7 @@ Ili plupaŝis tra la manĝita arbaro.
 
 “Kara mumriko,” li diris. “Ludu ion. Ne gravas ĉu ĝi estas malgaja.”
 
-“La buŝarmoniko difektiĝs,” diris Snufmumriko. “Nur unu-du tonoj revenis.”
+“La buŝarmoniko difektiĝis,” diris Snufmumriko. “Nur unu-du tonoj revenis.”
 
 “Nu, do ludu tiujn,” petis la trolo.
 
@@ -2092,7 +2090,9 @@ Nun venis la nigra nubo, ĝi estis tute proksima.
 
 ![][8-8]
 
-“Fikstenu kaj ne lasu la prenon!” kriis Snufmumriko. “Nun ni flugos post via poŝtmarkalbumo! Ĉiuj firme kaptis la falbalon de la hemulrobo kaj la ŝtormo eniris ĝin kaj levis ĝin, kaj nun la nigra nubo jam estis super la marĉo kaj hurlante kaj muĝante postsekvis ilin. La tero malaperis sub iliaj piedoj kaj ĉio iĝis tute malluma. Kaj ili flugis foren, foren okcidenten, rekte en la krepuskon kaj nokton.”
+“Fikstenu kaj ne lasu la prenon!” kriis Snufmumriko. “Nun ni flugos post via poŝtmarkalbumo!” 
+
+Ĉiuj firme kaptis la falbalon de la hemulrobo kaj la ŝtormo eniris ĝin kaj levis ĝin, kaj nun la nigra nubo jam estis super la marĉo kaj hurlante kaj muĝante postsekvis ilin. La tero malaperis sub iliaj piedoj kaj ĉio iĝis tute malluma. Kaj ili flugis foren, foren okcidenten, rekte en la krepuskon kaj nokton.
 <div class="verda">★</div>
 Baldaŭ antaŭ noktomezo la ciklono perdis sian spiron kaj nodis sin mem. La balono malsubite sinkis en arbaron kaj restis pendanta de alta arbo. Dumlonge neniu ion diris. Ili kaŭris inter la branĉoj kaj rigardis en la ruĝan mallumon de la arbaro aŭdante la ciklonon malaperi, pli kaj pli malproksimen. Fine ĝi estis nur mallaŭta hurlo, kaj poste tute silentiĝis.
 

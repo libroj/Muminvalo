@@ -1,0 +1,173 @@
+% Optimally you should use XeLaTeX to typeset it, using system fonts. If you use pdflatex, standard LaTeX sans fonts will be used instead.
+%
+% This makes use of some stock MultiMarkdown LaTeX boilerplate. Thanks go to Fletcher Penney for creating a useful and simple system to extend from.
+
+\documentclass[oneside,article,14pt,dvipsnames]{memoir}
+
+\usepackage{layouts}[2001/04/29]
+\usepackage[svgnames]{xcolor}
+\definecolor{coolgrey}{Hsb}{293, 0.0, 0.5}
+\definecolor{plumbgrey}{Hsb}{314, 0.3, 0.5}
+\definecolor{redgrey}{Hsb}{337, 0.31, 0.6}
+\usepackage{url,verse}
+\usepackage{wrapfig}
+\usepackage{sectionbreak}
+\usepackage{perpage} %the perpage package
+\MakePerPage{footnote} %the perpage package command
+\usepackage{xpatch}
+\usepackage{fancyvrb}
+\usepackage{adjustbox}
+\usepackage[esperanto]{babel}
+\usepackage{amssymb}
+\usepackage[acronym]{glossaries}
+\usepackage[utf8]{inputenc}
+\usepackage[labelformat=empty]{caption}
+\usepackage{calligra}
+\usepackage{tikz}
+\usetikzlibrary{matrix,fit,chains,calc,scopes}            
+\usepackage{tcolorbox}
+\tcbuselibrary{skins}
+\usepackage{auto-pst-pdf} %To compile psvectorian directly
+\usepackage{psvectorian}
+\usepackage[all]{nowidow}
+\glstoctrue
+\makeglossaries
+\makeindex
+
+\usepackage{pdfpages}
+\usepackage[T1]{fontenc}
+\usepackage{fontenc,unicode-math}
+
+%\usepackage{fontspec}
+\setmainfont[Ligatures=TeX]{TeX Gyre Schola}
+%\usepackage{beton}
+%\renewcommand{\bfdefault}{sbc}
+\usepackage[scale=0.89]{tgheros} % Helvetica is too big
+
+
+%	\renewcommand{\familydefault}{\sfdefault}
+	\newcommand{\helvetican}{}
+	\newcommand{\helveticanl}{}
+
+% Body Text Formatting
+\linespread{1.2}
+\setlength{\abnormalparskip}{0em}
+\setlength{\parindent}{1.5em}
+
+
+% Footnotes
+\setlength{\footmarkwidth}{1.8em}
+\setlength{\footmarksep}{0em}
+\footmarkstyle{\footnotesize{#1}.\hfill}
+\setfootins{16pt}{16pt}
+\setlength{\footnotesep}{16pt}
+
+
+%
+%	8.5 x 11 layout for memoir-based documents
+%   As defined in the stock MultiMarkdown system
+%
+%%% need more space for ToC page numbers
+\setpnumwidth{2.55em}
+\setrmarg{3.55em}
+
+%%% need more space for ToC section numbers
+\cftsetindents{part}{0em}{3em}
+\cftsetindents{chapter}{0em}{3em}
+\cftsetindents{section}{3em}{3em}
+\cftsetindents{subsection}{4.5em}{3.9em}
+\cftsetindents{subsubsection}{8.4em}{4.8em}
+\cftsetindents{paragraph}{10.7em}{5.7em}
+\cftsetindents{subparagraph}{12.7em}{6.7em}
+
+%%% need more space for LoF numbers
+\cftsetindents{figure}{0em}{3.0em}
+
+%%% and do the same for the LoT
+\cftsetindents{table}{0em}{3.0em}
+
+%%% set up the page layout
+\settrimmedsize{\stockheight}{\stockwidth}{*}	% Use entire page
+\settrims{0pt}{0pt}
+
+% Comment out the following command and replace it with the second, below it, if you intend to use CriticMarkup's margin notes, or marginalia of any sort.
+\setlrmarginsandblock{1in}{1in}{*}
+% \setlrmarginsandblock{1in}{2.5in}{*}
+\setulmarginsandblock{1in}{1in}{*}
+
+\setmarginnotes{17pt}{1.5in}{\onelineskip}
+\setheadfoot{\onelineskip}{2\onelineskip}
+\setheaderspaces{*}{2\onelineskip}{*}
+\checkandfixthelayout
+
+\usepackage{fancyvrb}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{tabulary}
+%\usepackage{listings}
+\usepackage[sort&compress]{natbib}
+\usepackage[normalem]{ulem}
+
+\renewcommand{\contentsname}{TABELO DE ENHAVO}
+
+
+% Make use of MultiMarkdown's CriticMarkup support for proofing notations
+% If you have installed your own copy of MMD, you should use the second command instead.
+\input{/Applications/Scrivener.app/Contents/Resources/MultiMarkdown/latex-support/mmd6-criticmarkup}
+% \input{mmd6-criticmarkup}
+
+\VerbatimFootnotes
+
+% Section Headings
+\setsecheadstyle{\helveticanl\LARGE\raggedright\textcolor{ForestGreen}}
+\setsubsecheadstyle{\helveticanl\large\raggedright\textcolor{ForestGreen}}
+\setsubsubsecheadstyle{\helveticanl\normalsize\raggedright\textcolor{ForestGreen}}
+
+\maxsecnumdepth{chapter}
+\setsecnumdepth{chapter}
+\settocdepth{section}
+
+% Spacing Model
+% Use "negative" values for the beforeXskip settings; this indicates the following paragraph should have its indent suppressed.
+\setbeforesecskip{-14pt}
+\setaftersecskip{12pt}
+\setbeforesubsecskip{-14pt}
+\setaftersubsecskip{12pt}
+\setbeforesubsubsecskip{-14pt}
+\setaftersubsubsecskip{6pt}
+
+% Chapter heading style
+\makechapterstyle{modern-style}{
+    \renewcommand*{\chaptitlefont}{\helveticanl\huge\centering\normalfont}
+    \renewcommand*{\chapnumfont}{\helvetican\Huge\raggedright\mdseries}
+	\renewcommand*{\chapnamefont}{\chapnumfont}
+	\renewcommand*{\printchaptername}{\newpage\chapnamefont\color{ForestGreen}}
+	\renewcommand*{\printchapternum}{}
+	\setlength{\beforechapskip}{36pt}
+    \setlength{\afterchapskip}{12pt}
+	\setlength{\midchapskip}{6pt}
+	\setlength{\midchapskip}{6pt}
+}
+\chapterstyle{modern-style}
+
+% Part Breaks
+\renewcommand{\parttitlefont}{\helvetican\huge\raggedright\normalfont\color{ForestGreen}}
+%\renewcommand{\partnamefont}{\helvetican\fontsize{30pt}{30pt}\raggedright\mdseries\color{ForestGreen}}
+\renewcommand{\partnamefont}{}
+\renewcommand{\printpartname}{}
+\renewcommand{\printpartnum}{}
+\renewcommand{\partnumfont}{\partnamefont}
+\renewcommand{\beforepartskip}{\null\vfil\thispagestyle{empty}}
+\renewcommand{\midpartskip}{\par\vspace{6pt}}
+% Comment the following line if you wish to print the name of the part
+\renewcommand{\printparttitle}{\chapnamefont\centering\color{ForestGreen}}
+\renewcommand{\afterpartskip}{\par\vspace{6pt}}
+
+
+\renewcommand{\cftpartleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftchapterleader}{\cftdotfill{\cftdotsep}}
+
+\pagestyle{plain}
+
+
+\renewcommand{\sectionbreak}{\fancybreak{\color{ForestGreen}\textbf{\star}}}

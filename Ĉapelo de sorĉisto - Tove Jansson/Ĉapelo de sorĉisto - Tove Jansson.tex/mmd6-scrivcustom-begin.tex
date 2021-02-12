@@ -1,0 +1,106 @@
+% Set up PDF
+\usepackage[
+	plainpages=false,
+	colorlinks=true,
+	    unicode=true,          % non-Latin characters in Acrobat’s bookmarks
+	urlcolor=ForestGreen,
+	linkcolor=ForestGreen,
+	citecolor=ForestGreen,
+	filecolor=ForestGreen,
+	pdfpagelabels,
+	pdftitle={\mytitle},
+	pagebackref,
+	pdfauthor={\myauthor},
+	bookmarksnumbered=true,
+	bookmarksopen=true
+	]{hyperref}
+\hypersetup{bookmarksdepth=3}
+\usepackage{memhfixc}
+
+%
+%	Configure information from metadata for use in title
+%   Using default MultiMarkdown methods
+
+\ifx\latexauthor\undefined
+\else
+	\def\myauthor{\latexauthor}
+\fi
+
+\ifx\subtitle\undefined
+\else
+%	\addtodef{\mytitle}{}{ \\ \subtitle}
+	\expandafter\def\expandafter\mytitle\expandafter{\mytitle \\ \subtitle}
+\fi
+
+\ifx\affiliation\undefined
+\else
+%	\addtodef{\myauthor}{}{ \\ \affiliation}
+	\expandafter\def\expandafter\myauthor\expandafter{\myauthor \\ \affiliation}
+\fi
+
+\ifx\address\undefined
+\else
+%	\addtodef{\myauthor}{}{ \\ \address}
+	\expandafter\def\expandafter\myauthor\expandafter{\myauthor \\ \address}
+\fi
+
+\ifx\phone\undefined
+\else
+%	\addtodef{\myauthor}{}{ \\ \phone}
+	\expandafter\def\expandafter\myauthor\expandafter{\myauthor \\ \phone}
+\fi
+
+\ifx\email\undefined
+\else
+%	\addtodef{\myauthor}{}{ \\ \email}
+	\expandafter\def\expandafter\myauthor\expandafter{\myauthor \\ \email}
+\fi
+
+\ifx\event\undefined
+\else
+	\date[\mydate]{\today}
+\fi
+
+\ifx\latextitle\undefined
+	\def\latextitle{\mytitle}
+\else
+\fi
+ %   remove figure captions
+
+% http://tex.stackexchange.com/a/58638/5764
+\makeatletter
+\def\ifemptyarg#1{%
+	\if\relax\detokenize{#1}\relax % H. Oberdiek
+	\expandafter\@firstoftwo
+	\else
+	\expandafter\@secondoftwo
+	\fi}
+\makeatother
+
+\let\oldcaption\caption
+\AtBeginDocument{%
+	\renewcommand{\caption}[2][]{%
+		\ifemptyarg{#2}{}{\oldcaption[#1]{#2}}%
+	}%
+}
+\date{}
+
+\renewcommand*{\psvectorianDefaultColor}{ForestGreen}%
+
+\tcbset{
+	Baystyle/.style={
+		sharp corners,
+		enhanced,
+		boxrule=6pt,
+		colframe=ForestGreen,
+		height=\textheight,
+		width=\textwidth,
+		borderline={8pt}{-11pt}{},
+	}
+}
+
+
+\title{\mytitle}
+\author{\myauthor}
+
+\begin{document}
